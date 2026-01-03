@@ -1,8 +1,8 @@
 # Dr.Arash-Ghorbannia-Delavar-Publications
 List of Indexed Publications by Dr. Arash Ghorbannia Delava
 
-| First Header  | Second Header | Second Header | Second Header | Second Header |
-| ------------- | ------------- |
+| First Header  | First Header  | First Header  | First Header  | Second Header |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
