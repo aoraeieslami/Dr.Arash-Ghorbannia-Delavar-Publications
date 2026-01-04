@@ -1,7 +1,8 @@
 # Dr. Arash Ghorbannia Delavar Publications (2022-2025)
-List of Indexed Publications by Dr. Arash Ghorbannia Delavar
+# List of Indexed Publications by Dr. Arash Ghorbannia Delavar
 **Associate Professor – Payame Noor University**
 **Department of Computer Engineering**
+
 **Research Fields:** Artificial Intelligence • Data Mining • Cloud Computing • Networking
 
 
@@ -17,4 +18,8 @@ List of Indexed Publications by Dr. Arash Ghorbannia Delavar
 | 2022 | HDECO: a method for Decreasing energy and cost by using virtual machine migration by considering hybrid parameters | Computer Communications | https://doi.org/10.1016/j.comcom.2022.08.006 |
 | 2022 | VMRCD: an algorithm for dependable routing using the re-clustering for vehicular networks with v2v communication | Modeling in Engineering | https://doi.org/10.22075/jme.2022.24828.2158 |
 
+🌐 Connect & Explore
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=FbvFpVsAAAAJ&view_op=list_works&sortby=pubdate
+- ResearchGate: https://www.researchgate.net/profile/Arash-Ghorbannia-Delaver  
+- University: https://cv.pnu.ac.ir/HomePage/arashghorbanniadelavar
 
