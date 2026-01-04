@@ -1,5 +1,9 @@
-# Dr. Arash-Ghorbannia-Delavar-Publications
+# Dr. Arash Ghorbannia Delavar Publications (2022-2025)
 List of Indexed Publications by Dr. Arash Ghorbannia Delavar
+**Associate Professor – Payame Noor University**
+**Department of Computer Engineering**
+**Research Fields:** Artificial Intelligence • Data Mining • Cloud Computing • Networking
+
 
 | Year  |  Title  | Publication  | DOI/Links |
 | ----- |  ------ | ------------ | --------- |
